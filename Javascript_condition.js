@@ -49,5 +49,5 @@ else if (value >= 40){
   console.log("Grade F")
 }
 else{
-  console.log("You are Fail")
+  console.log("this is not value")
 }
